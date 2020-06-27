@@ -19,9 +19,9 @@ Para roda-la será necessário basicamente rodar o comando **docker-compose up**
 Acesse cada microsserviço respectivamente e leia o README.md para ver mais detalhes de como rodar o microsserviço.
 
 [Live-Manager](https://github.com/AndersonOA/microservices-plataforma-lives/tree/master/micro-live-manager)
-[CodeBot](https://github.com/AndersonOA/microservices-plataforma-lives/codebot)
-[Live-Chat](https://github.com/AndersonOA/microservices-plataforma-lives/micro-live-chat)
-[Live-Streaming](https://github.com/AndersonOA/microservices-plataforma-lives/micro-live-streaming)
+[CodeBot](https://github.com/AndersonOA/microservices-plataforma-lives/tree/master/codebot)
+[Live-Chat](https://github.com/AndersonOA/microservices-plataforma-lives/tree/master/micro-live-chat)
+[Live-Streaming](https://github.com/AndersonOA/microservices-plataforma-lives/tree/master/micro-live-streaming)
 
 #### Para quem usar Docker Professional no Windows
 
